@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1544504914 source:c:\users\richie\documents\github\memoria\memoria\main.cpp
+	<iostream>
+	<ctype.h>
+	<stdio.h>
+	"Librerias\archivos.h"
+	<locale.h>
+
+1544505300 c:\users\richie\documents\github\memoria\memoria\librerias\archivos.h
+	<fstream>
+	<iostream>
+	<stdio.h>
+	<locale.h>
+	<stdlib.h>
+	<string.h>
+
